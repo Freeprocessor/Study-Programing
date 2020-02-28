@@ -8,5 +8,5 @@ int main(int argc, char* argv[])
 int replacement(int n, char *gondolaSeq, char *replacementSeq)
 {
     int i=0;
-    //replacementSeq[i] Test 2dsf dsfds Test 2
+    //replacementSeq[i]
 }
