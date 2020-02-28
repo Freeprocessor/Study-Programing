@@ -12,6 +12,16 @@
         "10998 AxB.C": "cpp",
         "B.C": "cpp",
         "1008 AB.C": "cpp",
-        "1008 A÷B.C": "cpp"
+        "1008 A÷B.C": "cpp",
+        "10869 +-.C": "cpp",
+        "10430 Mod.C": "cpp",
+        "2588 x.C": "cpp",
+        "1000_A+B.C": "cpp",
+        "1008 _A÷B.C": "cpp",
+        "1001_A-B.C": "cpp",
+        "2557_Hello_World.C": "cpp",
+        "10998_AxB.C": "cpp",
+        "10430_Mod.C": "cpp",
+        "2588_x.C": "cpp"
     }
 }
