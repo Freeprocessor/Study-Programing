@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <windows.h>
+//#include <windows.h>
 int main() {
 	int A=0, B=0, C=0, D=0, E=0;
 	scanf("%d", &A);
@@ -11,5 +11,5 @@ int main() {
 	printf("%d\n", D);
 	printf("%d\n", E);
     printf("%d\n", A*B);
-	system("pause");
+//	system("pause");
 }
